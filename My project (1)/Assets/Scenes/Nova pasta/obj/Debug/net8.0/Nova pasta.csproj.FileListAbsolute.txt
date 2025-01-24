@@ -1,0 +1,15 @@
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\bin\Debug\net8.0\Nova pasta.exe
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\bin\Debug\net8.0\Nova pasta.deps.json
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\bin\Debug\net8.0\Nova pasta.dll
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\bin\Debug\net8.0\Nova pasta.pdb
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.sourcelink.json
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.dll
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+C:\Users\20231170150046\Documents\GitHub\Motores-2\My project (1)\Assets\Scenes\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
