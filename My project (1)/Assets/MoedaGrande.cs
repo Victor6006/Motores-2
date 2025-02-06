@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Moeda : MonoBehaviour
+public class MoedaGrande : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -14,7 +14,7 @@ public class Moeda : MonoBehaviour
 
             Player p = other.gameObject.GetComponent<Player>();
 
-            p.pontos += 5;
+            p.pontos += 10;
             
             gameObject.SetActive(false);
         }
